@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<estudiantes>
+  <estudiante>
+    <dni>72225118</dni>
+    <codigo>20090345</codigo>
+    <apellidos>condori tito</apellidos>
+    <nombre>hernan</nombre>
+    <email>hernan@gmail.com</email>
+    <celular>952262322</celular>
+    <sexo>M</sexo>
+    <edad>25</edad>
+  </estudiante>
+  <estudiante>
+    <dni>71994077</dni>
+    <codigo>20150509</codigo>
+    <apellidos>Porlles Carrillo</apellidos>
+    <nombre>Diego</nombre>
+    <email>diego@gmail.com</email>
+    <celular>952161616</celular>
+    <sexo>M</sexo>
+    <edad>25</edad>
+  </estudiante>
+  <estudiante>
+    <dni>123456789</dni>
+    <codigo>20160606</codigo>
+    <apellidos>mamani maquera</apellidos>
+    <nombre>arlyn</nombre>
+    <email>arlyn@gmail.com</email>
+    <celular>952262322</celular>
+    <sexo>F</sexo>
+    <edad>25</edad>
+  </estudiante>
+  <estudiante>
+    <dni>987654321</dni>
+    <codigo>20170508</codigo>
+    <apellidos>rodrigues peres</apellidos>
+    <nombre>luis</nombre>
+    <email>luis@gmail.com</email>
+    <celular>952262322</celular>
+    <sexo>M</sexo>
+    <edad>28</edad>
+  </estudiante>
+  <estudiante>
+    <dni>88456523</dni>
+    <codigo>20120505</codigo>
+    <apellidos>villegas cotrado</apellidos>
+    <nombre>carlos</nombre>
+    <email>carlos@gmail.com</email>
+    <celular>952262322</celular>
+    <sexo>M</sexo>
+    <edad>21</edad>
+  </estudiante>
+  <estudiante>
+    <dni>45698568</dni>
+    <codigo>201808856</codigo>
+    <apellidos>castro redrigues</apellidos>
+    <nombre>julio</nombre>
+    <email>julio@gmail.com</email>
+    <celular>956263232</celular>
+    <sexo>M</sexo>
+    <edad>22</edad>
+  </estudiante>
+  <estudiante>
+    <dni>72225118</dni>
+    <codigo>20090343</codigo>
+    <apellidos>condori tito</apellidos>
+    <nombre>hernan</nombre>
+    <email>hernan@gmail.com</email>
+    <celular>952262322</celular>
+    <sexo>M</sexo>
+    <edad>25</edad>
+  </estudiante>
+  <estudiante>
+    <dni>78989865</dni>
+    <codigo>20180526</codigo>
+    <apellidos>condori condori</apellidos>
+    <nombre>Flor</nombre>
+    <email>flor@gmail.com</email>
+    <celular>952262322</celular>
+    <sexo>F</sexo>
+    <edad>24</edad>
+  </estudiante>
+  <estudiante>
+    <dni>46474856</dni>
+    <codigo>20190596</codigo>
+    <apellidos>quispe condori</apellidos>
+    <nombre>Angely</nombre>
+    <email>angely@gmail.com</email>
+    <celular>952262322</celular>
+    <sexo>F</sexo>
+    <edad>28</edad>
+  </estudiante>
+  <estudiante>
+    <dni>48563245</dni>
+    <codigo>20170596</codigo>
+    <apellidos>ricapa cordova</apellidos>
+    <nombre>Gloria</nombre>
+    <email>gloria@gmail.com</email>
+    <celular>952262322</celular>
+    <sexo>F</sexo>
+    <edad>27</edad>
+  </estudiante>
+</estudiantes>
